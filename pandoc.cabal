@@ -278,6 +278,7 @@ Library
                    Text.Pandoc.Readers.MediaWiki,
                    Text.Pandoc.Readers.RST,
                    Text.Pandoc.Readers.DocBook,
+                   Text.Pandoc.Readers.OPML,
                    Text.Pandoc.Readers.TeXMath,
                    Text.Pandoc.Readers.Textile,
                    Text.Pandoc.Readers.Native,
